@@ -43,6 +43,3 @@ provider
 firebase_core
 
 cloud_firestore
-
-Make sure these are listed in your pubspec.yaml.
-https://github.com/rajesh12-1/sRockMusics1.git
